@@ -1,4 +1,4 @@
-![banner](./icons/banner.png)
+![banner](banner.png)
 
 # Hi, I'm Muhammad Hammad 👋
 
