@@ -70,7 +70,7 @@ Multiple verified certificates in **Computer Science** and **Cybersecurity**, in
   <img src="https://raw.githubusercontent.com/DotX-47/icons/python.png" width="45" height="45" title="Python"/>
   <img src="https://raw.githubusercontent.com/DotX-47/icons/c.png" width="45" height="45" title="C"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg" width="45" height="45" title="PyCharm"/>
-  <img src="https://raw.githubusercontent.com/DotX-47/visualstudio.png" width="45" height="45" title="Visual Studio"/>
+  <img src="https://raw.githubusercontent.com/DotX-47/icons/visualstudio.png" width="45" height="45" title="Visual Studio"/>
   <img src="https://raw.githubusercontent.com/DotX-47/icons/linux.png" width="45" height="45" title="Linux"/>
   <img src="https://raw.githubusercontent.com/DotX-47/icons/linux-kodachi.png" width="60" height="45" title="Linux Kodachi"/>
   <img src="https://raw.githubusercontent.com/DotX-47/icons/tor.png" width="45" height="45" title="Tor Browser"/>
