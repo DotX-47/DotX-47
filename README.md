@@ -66,12 +66,14 @@ Multiple verified certificates in **Computer Science** and **Cybersecurity**, in
 
 ## 🧰 Languages and Tools
 <p align="left">
-  <img src="https://cdn-icons-png.flaticon.com/512/5968/5968350.png" width="40" title="Python"/>
-  <img src="https://cdn-icons-png.flaticon.com/512/6132/6132222.png" width="40" title="C"/>
-  <img src="https://cdn-icons-png.flaticon.com/512/906/906324.png" width="40" title="PyCharm"/>
-  <img src="https://cdn-icons-png.flaticon.com/512/906/906324.png" width="40" title="Visual Studio"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/2/2b/Kali-dragon-icon.svg" width="40" title="Kali Linux"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/3/35/Tux.svg" width="40" title="Linux Kodachi"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="45" height="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="45" height="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg" width="45" height="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" width="45" height="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="45" height="45"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/5/5f/Linux-kodachi-logo.png" width="60" height="45" title="Linux Kodachi"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/5/5e/Tor_Browser_logo.svg" width="45" height="45" title="Tor Browser"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/0/02/Tails_logo.svg" width="45" height="45" title="Tails OS"/>
 </p>
 ---
 
