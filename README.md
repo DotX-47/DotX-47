@@ -1,8 +1,8 @@
+![banner](./icons/banner.png)
+
 # Hi, I'm Muhammad Hammad 👋
 
 ### Cybersecurity | Computer Science | Artificial Intelligence | Pakistan 🇵🇰  
-
-![banner](banner.png)
 
 ## 🤝 Connect with Me
 
