@@ -72,6 +72,7 @@ Multiple verified certificates in **Computer Science** and **Cybersecurity**, in
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg" width="45" height="45"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" width="45" height="45"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="45" height="45"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/5/5f/Linux-kodachi-logo.png" width="45" height="45" title="Linux Kodachi"/>
 </p>
 ---
 
