@@ -72,7 +72,7 @@ Multiple verified certificates in **Computer Science** and **Cybersecurity**, in
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg" width="45" height="45"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" width="45" height="45"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="45" height="45"/>
-  <img src="https://www.google.com/imgres?q=Linux%20Kodachi%20logo%20svg&imgurl=https%3A%2F%2Fmiro.medium.com%2Fv2%2Fresize%3Afit%3A1170%2F1*LdyJqaFB3ZVUCYA-ganb9A.png&imgrefurl=https%3A%2F%2Fmedium.com%2F%40arcx1%2Fcomparison-of-anonymous-live-usb-systems-tails-vs-kodachi-fd11f4ba3b9d&docid=UwuxtXuCVTzNAM&tbnid=C5glRd-2tnJGGM&vet=12ahUKEwiF-IPM07SQAxUBExAIHWaZADEQM3oECBgQAA..i&w=585&h=585&hcb=2&ved=2ahUKEwiF-IPM07SQAxUBExAIHWaZADEQM3oECBgQAA" width="45" height="45" title="Linux Kodachi"/>
+<img src="https://raw.githubusercontent.com/DotX-47/icons/linux-kodachi.png" width="60" height="45" title="Linux Kodachi"/>
 </p>
 ---
 
