@@ -38,8 +38,8 @@
 - Conducted bug hunting and vulnerability analysis  
 
 **Moderator & Mentor — Mr. HackerCharlie Community**  
-- **YouTube:** [2.47K+ subscribers](https://www.youtube.com/@Mr.HackerCharlie)  
-- **Discord:** [94+ active members](https://discord.gg/vxPfaQjg)  
+- **YouTube:** [3K+ subscribers](https://www.youtube.com/@Mr.HackerCharlie)  
+- **Discord:** [100+ active members](https://discord.gg/vxPfaQjg)  
 - Mentored students in Python and C  
 
 **Teaching Experience (6+ months)**  
