@@ -86,3 +86,8 @@
 > “Driven by curiosity, powered by data, and passionate about intelligent and secure systems.”  
 
 ⭐ *Don’t forget to star this repo if you like my work!*
+
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=Explo1ts&label=Profile%20views&color=000000&style=flat" alt="Profile views"/>
+</p>
+
