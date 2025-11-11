@@ -88,6 +88,6 @@
 ⭐ *Don’t forget to star this repo if you like my work!*
 
 <p align="left">
-  <img src="https://komarev.com/ghpvc/?username=Explo1ts&label=Profile%20views&color=000000&style=flat" alt="Profile views"/>
+  <img src="https://komarev.com/ghpvc/?username=DotX-47&label=Profile%20views&color=000000&style=for-the-badge" alt="Profile views"/>
 </p>
 
