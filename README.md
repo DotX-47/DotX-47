@@ -1,5 +1,5 @@
 # Hi, I'm DotX-47 �
-  <img height="250"  src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExbThuODN6ZmRkZHJ4MTV1ODVwdXljdWplcWJhNGx4eHFyZmd5bXlxYiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/iGpHt2H22k1orjgT9b/giphy.gif" alt="Animated GIF" />
+  <img lenght "200" height="250"  src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExbThuODN6ZmRkZHJ4MTV1ODVwdXljdWplcWJhNGx4eHFyZmd5bXlxYiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/iGpHt2H22k1orjgT9b/giphy.gif" alt="Animated GIF" />
 </div>
 
 
