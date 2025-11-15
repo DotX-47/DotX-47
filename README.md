@@ -10,10 +10,7 @@
 ## 🤝 Connect with Me
 
 <a href="mailto:hammad360yt@gmail.com">
-  <img src="https://img.shields.io/badge/Email-hammad360yt@gmail.com-red?style=flat-square&logo=gmail" alt="Email"/>
-</a>
-<a href="https://www.instagram.com/its_hammad_470/">
-  <img src="https://img.shields.io/badge/Instagram-@its_hammad_470-E4405F?style=flat-square&logo=instagram" alt="Instagram"/>
+  <img src="https://img.shields.io/badge/Email-Dotx-47@gmail.com-red?style=flat-square&logo=gmail" alt="Email"/>
 </a>
 <a href="https://discord.com/users/1039497634102120478">
   <img src="https://img.shields.io/badge/Discord-Join-5865F2?style=flat-square&logo=discord" alt="Discord"/>
