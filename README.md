@@ -83,7 +83,7 @@
 
 ---
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=DotX-47&show_icons=true&locale=en&theme=dracula&show_icons=true" alt="DotX-47" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=DotX-47&show_icons=true&locale=en&theme=dracula&show_icons=false" alt="DotX-47" /></p>
 
 ---
 
