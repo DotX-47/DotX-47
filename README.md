@@ -46,7 +46,6 @@
 - Developed and maintained open-source cybersecurity and automation tools  
 
 **Open Source Contributor**  
-- Active on GitHub as [DotX-47](https://github.com/DotX-47)  
 - Developed and maintained open-source cybersecurity and automation tools  
 
 
@@ -80,9 +79,23 @@
 
 ---
 
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=DotX-47&show_icons=true&locale=en&layout=compact" alt="DotX-47" /></p>
+
+---
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=DotX-47&show_icons=true&locale=en" alt="DotX-47" /></p>
+
+---
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=DotX-47&" alt="DotX-47" /></p>
+
+---
+
 > “Driven by curiosity, powered by data, and passionate about intelligent and secure systems.”  
 
 ⭐ *Don’t forget to star this repo if you like my work!*
+
+---
 
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=DotX-47&label=Profile%20views&color=000000&style=flat" alt="Profile views"/>
