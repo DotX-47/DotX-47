@@ -47,7 +47,6 @@
 - Active on GitHub as [DotX-47](https://github.com/DotX-47)  
 - Developed and maintained open-source cybersecurity and automation tools  
 
----
 
 ---
 
@@ -67,6 +66,7 @@
   <a href="https://www.kali.org/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="45" height="45"/>
   <a href="https://www.digi77.com/linux-kodachi/"><img src="https://cdn-icons-png.flaticon.com/512/226/226772.png" width="45" height="45" title="Linux Kodachi"/>
 </p>
+    
 ---
 
 ## 🧩 Additional Information
