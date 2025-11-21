@@ -79,7 +79,7 @@
 
 ---
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=DotX-47&show_icons=true&locale=en&layout=compact" alt="DotX-47" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=DotX-47&show_icons=true&locale=en&layout=compact&theme=gruvbox" alt="DotX-47" /></p>
 
 ---
 
@@ -87,9 +87,6 @@
 
 ---
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=DotX-47&" alt="DotX-47" /></p>
-
----
 
 > “Driven by curiosity, powered by data, and passionate about intelligent and secure systems.”  
 
