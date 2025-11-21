@@ -79,11 +79,11 @@
 
 ---
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=DotX-47&show_icons=true&locale=en&layout=compact&theme=gruvbox" alt="DotX-47" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=DotX-47&show_icons=true&locale=en&layout=compact&theme=dracula" alt="DotX-47" /></p>
 
 ---
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=DotX-47&show_icons=true&locale=en" alt="DotX-47" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=DotX-47&show_icons=true&locale=en&theme=dracula" alt="DotX-47" /></p>
 
 ---
 
