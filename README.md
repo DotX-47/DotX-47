@@ -20,6 +20,8 @@
 **Languages:** Python (Advanced), C (Intermediate)  
 **Domains:** AI, Cybersecurity, Automation, and Data Science  
 
+---
+
 **Key Skills:**
 - Ethical Hacking & Vulnerability Analysis  
 - Automation Scripting & Tool Development  
@@ -32,7 +34,7 @@
 
 **Cybersecurity Practitioner (1.5+ years)**  
 - Specialized in white-hat and grey-hat ethical hacking  
-- Conducted bug hunting and vulnerability analysis  
+- Conducted bug hunting and vulnerability analysis
 
 **Moderator & Mentor — Mr. HackerCharlie Community**  
 - **YouTube:** [3K+ subscribers](https://www.youtube.com/@Mr.HackerCharlie)  
@@ -57,6 +59,8 @@
   <a href="https://www.jetbrains.com/pycharm/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg" width="45" height="45"/>
   <a href="https://code.visualstudio.com/download"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" width="45" height="45"/>
 </p>
+
+---
 
 ### 🖥️ Operating Systems
 <p align="left">
@@ -84,3 +88,4 @@
   <img src="https://komarev.com/ghpvc/?username=DotX-47&label=Profile%20views&color=000000&style=flat" alt="Profile views"/>
 </p>
 
+---
