@@ -1,14 +1,25 @@
 # Hi, I'm DotX-47 👋
 
-## 🏢 Organization
-
-![Website](https://img.shields.io/badge/Website-fsocietypk.tech-blue?logo=google-chrome&link=https://www.fsocietypk.tech/dashboard)
-![GitHub](https://img.shields.io/badge/GitHub-fsociety.pk-black?logo=github&link=https://github.com/fsociety-pk)
-
 <div align="center"><img height="200" src="https://camo.githubusercontent.com/4c68275a512f781093644d02ce4a168004487b4813cb2785a1d3d617d23aad0a/68747470733a2f2f726561646d652d747970696e672d7376672e64656d6f6c61622e636f6d2f3f666f6e743d506978656c6966792b53616e732673697a653d3332266475726174696f6e3d323535302670617573653d3130303026636f6c6f723d6666666666662672616e646f6d3d66616c73652677696474683d343335266c696e65733d57656c636f6d652b746f2b6d792b70726f66696c652b21" alt="Animated GIF"
   <br />
   <img height="200"  src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExaGVzemdkODRiZGd2N2VsZzFyMXVnNGNma3JmdDd4N3pvcDViYmU5aCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/8WeatsYCC54TC/giphy.gif" alt="Animated GIF" />
 </div>
+
+## 🏢 Organization
+
+<h1 align="center">FSOCIETY.PK</h1>
+
+<p align="center">
+  <a href="https://github.com/fsociety-pk">
+    <img src="https://img.shields.io/badge/GitHub-fsociety--pk-1b0a0b?style=for-the-badge&logo=github&logoColor=ff8888&labelColor=0c0405" alt="GitHub" />
+  </a>
+  <a href="https://discord.gg/b2WAQy7e">
+    <img src="https://img.shields.io/badge/Discord-Community-1b0a0b?style=for-the-badge&logo=discord&logoColor=ff8888&labelColor=0c0405" alt="Discord" />
+  </a>
+   <a href="https://www.fsocietypk.tech">
+    <img src="https://img.shields.io/badge/Website-fsocietypk.tech-1b0a0b?style=for-the-badge&logo=google-chrome&logoColor=ff8888&labelColor=0c0405" alt="Website" />
+     
+
 
 
 ### Cybersecurity | Computer Science | Artificial Intelligence | Pakistan 🇵🇰  
