@@ -101,6 +101,10 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=DotX-47&show_icons=true&locale=en&theme=dracula&rank_icon=github" alt="DotX-47" /></p>
 
+---
+## 🏆 Trophies
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=DotX-47)](https://github.com/ryo-ma/github-profile-trophy)
 
 ---
 
