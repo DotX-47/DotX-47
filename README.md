@@ -128,10 +128,9 @@
 </p>
 
 ---
-<p align="center">
+
 ![Top language](https://stats.pphat.top/languages?username=DotX-47)
 <br/>
-</p>
 
 ---
 
