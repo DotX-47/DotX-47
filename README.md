@@ -71,9 +71,7 @@
 ### 💻 Programming Languages
 <p align="center">
   <a href="https://www.cprogramming.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="40" height="40" alt="C"/></a>
-  
   <a href="https://www.python.org"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" height="40" alt="Python"/></a>
-
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" />
 </p>
 
@@ -81,7 +79,6 @@
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML5" width="40" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS3" width="40" />
 
 </p>
@@ -89,23 +86,17 @@
 <h3 align="center">Tools</h3>
 <p align="center">
   <img src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-icon.svg" alt="VS Code" width="40" />
-  
   <a href="https://www.jetbrains.com/pycharm/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg" width="45" height="45"/>
-  
   <a href="https://code.visualstudio.com/download"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" width="45" height="45"/>
 
 ---
 
 ### 🖥️ Operating Systems
 <p align="center">
-   <a href="https://www.microsoft.com/en-us/software-download/windows11"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" height="40" alt="Windows 8"/>
-     
+  <a href="https://www.microsoft.com/en-us/software-download/windows11"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" height="40" alt="Windows 8"/>
   <a href="https://www.debian.org/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/debian/debian-original.svg" height="40" alt="Debian"/>
-  
   <a href="https://ubuntu.com/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain.svg" height="40" alt="Ubuntu"/>
-  
   <a href="https://www.kali.org/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="45" height="45"/>
-  
   <a href="https://www.digi77.com/linux-kodachi/"><img src="https://cdn-icons-png.flaticon.com/512/226/226772.png" width="45" height="45" title="Linux Kodachi"/>
 </p>
     
