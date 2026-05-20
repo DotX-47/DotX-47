@@ -68,7 +68,9 @@
 
 ---
 
-### 💻 Programming Languages
+### 💻 Languages
+<h3 align="center">Programming Languages</h3>
+
 <p align="center">
   <a href="https://www.cprogramming.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="40" height="40" alt="C"/></a>
   <a href="https://www.python.org"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" height="40" alt="Python"/></a>
@@ -92,6 +94,7 @@
 ---
 
 ### 🖥️ Operating Systems
+
 <p align="center">
   <a href="https://www.microsoft.com/en-us/software-download/windows11"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" height="40" alt="Windows 8"/>
   <a href="https://www.debian.org/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/debian/debian-original.svg" height="40" alt="Debian"/>
