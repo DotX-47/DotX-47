@@ -7,19 +7,7 @@
 
 ## 🏢 Organization
 
-<h1 align="center">FSOCIETY.PK</h1>
-
-<p align="center">
-  <a href="https://github.com/fsociety-pk">
-    <img src="https://img.shields.io/badge/GitHub-fsociety--pk-1b0a0b?style=for-the-badge&logo=github&logoColor=ff8888&labelColor=0c0405" alt="GitHub" />
-  </a>
-  <a href="https://discord.gg/b2WAQy7e">
-    <img src="https://img.shields.io/badge/Discord-Community-1b0a0b?style=for-the-badge&logo=discord&logoColor=ff8888&labelColor=0c0405" alt="Discord" />
-  </a>
-   <a href="https://www.fsocietypk.tech">
-    <img src="https://img.shields.io/badge/Website-fsocietypk.tech-1b0a0b?style=for-the-badge&logo=google-chrome&logoColor=ff8888&labelColor=0c0405" alt="Website" />
-     
-
+<h1 align="center">Coming Soon</h1>
 
 
 ### Cybersecurity | Computer Science | Artificial Intelligence | Pakistan 🇵🇰  
