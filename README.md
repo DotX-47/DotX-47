@@ -72,10 +72,21 @@
 <p align="left">
   <a href="https://www.cprogramming.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="40" height="40" alt="C"/></a>
   <a href="https://www.python.org"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" height="40" alt="Python"/></a>
-  <a href="https://www.jetbrains.com/pycharm/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg" width="45" height="45"/>
-  <a href="https://code.visualstudio.com/download"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" width="45" height="45"/>
 </p>
 
+<h3 align="center">Frontend</h3>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML5" width="40" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS3" width="40" />
+
+</p>
+
+<h3 align="center">Tools</h3>
+<p align="center">
+  <img src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-icon.svg" alt="VS Code" width="40" />
+  <a href="https://www.jetbrains.com/pycharm/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg" width="45" height="45"/>
+  <a href="https://code.visualstudio.com/download"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" width="45" height="45"/>
 ---
 
 ### 🖥️ Operating Systems
@@ -96,10 +107,23 @@
 
 ---
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=DotX-47&show_icons=true&locale=en&layout=compact&theme=dracula" alt="DotX-47" /></p>
+## 📊 GitHub Stats & Trophies
 
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=DotX-47&show_icons=true&locale=en&theme=dracula&rank_icon=github" alt="DotX-47" /></p>
+<p align="center">
+  <a href="https://github.com/DotX-47">
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=DotX-47&cache_seconds=7200&layout=compact&theme=radical&border_radius=10" alt="DotX-47's GitHub Stats" />
+  </a>
+  <img src="https://streak-stats.demolab.com/?user=DotX-47&theme=radical&hide_border=true&cache_seconds=86400" alt="DotX-47's GitHub Streak" width="49%" />
+</p>
+<p align="center">
+  <img src="https://trophy.ryglcloud.net/?username=DotX-47&theme=radical&no-frame=true&no-bg=true&margin-w=4&cache_seconds=86400" alt="DotX-47's GitHub Trophies" />
+</p>
+<p align="center">
+  <img height="280em" src="https://github-readme-activity-graph.vercel.app/graph?username=DotX-47&theme=radical&radius=10" alt="DotX-47's Activity Graph" />
+</p>
+<p align="center">
+  <img src="/3d-city.gif" alt="3D City View Preview" width="100%" />
+</p>
 
 ---
 
@@ -107,6 +131,17 @@
 > “Driven by curiosity, powered by data, and passionate about intelligent and secure systems.”  
 
 ⭐ *Don’t forget to star this repo if you like my work!*
+
+---
+
+![Top language](https://stats.pphat.top/languages?username=DotX-47)
+<br/>
+
+
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/czl9707/gh-space-shooter/main/example.gif" alt="Space shooter contribution graph" />
+</p>
 
 ---
 
