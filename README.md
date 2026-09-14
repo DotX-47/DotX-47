@@ -1,6 +1,6 @@
 # Hi, I'm Muhammad Hammad AKA (DotX-47)👋
 
-<div align="center"><img height="259" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExdWtjdjdhM2g4ZmdhaHpnaGw0cDF0M3g5bzNsN21pdWJsZW55dTdxMyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/l0IyeheChYxx2byDu/giphy.gif" alt="Animated GIF"
+<div align="center"><img height="225" weight="225" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExdWtjdjdhM2g4ZmdhaHpnaGw0cDF0M3g5bzNsN21pdWJsZW55dTdxMyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/l0IyeheChYxx2byDu/giphy.gif" alt="Animated GIF"
   <br />
 </div>
 
