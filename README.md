@@ -1,6 +1,6 @@
 # Hi, I'm Muhammad Hammad AKA (DotX-47)👋
 
-<div align="center"><img height="215" weight="260" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExdWtjdjdhM2g4ZmdhaHpnaGw0cDF0M3g5bzNsN21pdWJsZW55dTdxMyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/l0IyeheChYxx2byDu/giphy.gif" alt="Animated GIF"
+<div align="center"><img height="215" weight="360" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExdWtjdjdhM2g4ZmdhaHpnaGw0cDF0M3g5bzNsN21pdWJsZW55dTdxMyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/l0IyeheChYxx2byDu/giphy.gif" alt="Animated GIF"
   <br />
 </div>
 
@@ -28,7 +28,7 @@
 
 ## 💼 Professional & Community Experience
 
-**Cybersecurity Practitioner (1.5+ years)**  
+**Cybersecurity Practitioner (2+ years)**  
 - Specialized in white-hat ethical hacking  
 - Conducted bug hunting and vulnerability analysis
 
