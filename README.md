@@ -2,7 +2,6 @@
 
 <div align="center"><img height="200" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExdWtjdjdhM2g4ZmdhaHpnaGw0cDF0M3g5bzNsN21pdWJsZW55dTdxMyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/l0IyeheChYxx2byDu/giphy.gif" alt="Animated GIF"
   <br />
-  <img height="200"  src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExaGVzemdkODRiZGd2N2VsZzFyMXVnNGNma3JmdDd4N3pvcDViYmU5aCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/8WeatsYCC54TC/giphy.gif" alt="Animated GIF" />
 </div>
 
 ## 🏢 Organization
