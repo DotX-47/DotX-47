@@ -1,4 +1,4 @@
-# Hi, I'm DotX-47 👋
+# Hi, I'm Muhammad Hammad AKA (DotX-47)👋
 
 <div align="center"><img height="200" src="https://camo.githubusercontent.com/4c68275a512f781093644d02ce4a168004487b4813cb2785a1d3d617d23aad0a/68747470733a2f2f726561646d652d747970696e672d7376672e64656d6f6c61622e636f6d2f3f666f6e743d506978656c6966792b53616e732673697a653d3332266475726174696f6e3d323535302670617573653d3130303026636f6c6f723d6666666666662672616e646f6d3d66616c73652677696474683d343335266c696e65733d57656c636f6d652b746f2b6d792b70726f66696c652b21" alt="Animated GIF"
   <br />
@@ -11,14 +11,6 @@
 
 
 ### Cybersecurity | Computer Science | Artificial Intelligence | Pakistan 🇵🇰  
-
-## 🤝 Connect with Me
-
-<a href="https://discord.com/users/1039497634102120478">
-  <img src="https://img.shields.io/badge/Discord-Join-5865F2?style=flat-square&logo=discord" alt="Discord"/>
-</a>
-
----
 
 ## 🧠 Technical & Programming Skills
 
@@ -38,15 +30,10 @@
 ## 💼 Professional & Community Experience
 
 **Cybersecurity Practitioner (1.5+ years)**  
-- Specialized in white-hat and grey-hat ethical hacking  
+- Specialized in white-hat ethical hacking  
 - Conducted bug hunting and vulnerability analysis
 
-**Moderator & Mentor — Mr. HackerCharlie Community**  
-- **YouTube:** [3K+ subscribers](https://www.youtube.com/@Mr.HackerCharlie)  
-- **Discord:** [100+ active members](https://discord.gg/vxPfaQjg)  
-- Mentored students in Python and C  
-
-**Teaching Experience (6+ months)**  
+**Teaching Experience (1+ Year)**  
 - Taught programming and ethical hacking fundamentals  
 - Developed and maintained open-source cybersecurity and automation tools  
 
