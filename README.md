@@ -14,7 +14,7 @@
     <h3 align="center">Linkedin</h3>
   <a href="https://www.linkedin.com/company/masaudsec-academy"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQHlhtO6lhDxM1CMpZXBQPfaTwBo7N_ayP9RlJMGjZDVw" width="60" height="60" alt="Linkedin"/></a>
       <h3 align="center">Discord</h3>
-  <a align="center" href="https://discord.gg/sFBDu5Yhgr"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT1FfHgmU7qlulSGUexkmQv4YuxduIVKoaH9UWzv99YTQ" width="60" height="60" alt="Discord"/></a>
+  <a div style=align: center; href="https://discord.gg/sFBDu5Yhgr"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT1FfHgmU7qlulSGUexkmQv4YuxduIVKoaH9UWzv99YTQ" width="60" height="60" alt="Discord"/></a>
 </p>
 
 ### Cybersecurity | AI Red Teamer | AI Security Engineer | AI Security Researcher 
