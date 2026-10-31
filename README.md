@@ -6,38 +6,53 @@
 
 ## 🏢 Organization
 
-<h1 align="center">Coming Soon</h1>
+<h1 align="center">MusaudSec Academy</h1>
 
+<p align="center">
+  <h3 align="center">Website</h3>
+  <a href="https://masaudsec.com/"><img src="https://i.ibb.co/60VT35MB/1791356621293-1.jpg" width="40" height="40" alt="MusaudSec Website"/></a>
+    <h3 align="center">Linkedin</h3>
+  <a href="https://www.linkedin.com/company/masaudsec-academy"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQHlhtO6lhDxM1CMpZXBQPfaTwBo7N_ayP9RlJMGjZDVw" width="40" height="40" alt="Linkedin"/></a>
+      <h3 align="center">Discord</h3>
+  <a href="https://discord.gg/sFBDu5Yhgr"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT1FfHgmU7qlulSGUexkmQv4YuxduIVKoaH9UWzv99YTQ" width="40" height="40" alt="Discord"/></a>
+</p>
 
-### Cybersecurity | Computer Science | Artificial Intelligence | Pakistan 🇵🇰  
+### Cybersecurity | AI Red Teamer | AI Security Engineer | AI Security Researcher 
 
 ## 🧠 Technical & Programming Skills
 
 **Languages:** Python (Advanced), C (Intermediate)  
-**Domains:** AI, Cybersecurity, Automation, and Data Science  
+**Domains:** AI, Cybersecurity,  LLM Exploitation, AI Security Engineer, AI Security Researcher and AI Penetration Tester)
 
 ---
 
 **Key Skills:**
-- Ethical Hacking & Vulnerability Analysis  
-- Automation Scripting & Tool Development  
-- Red & Blue Teaming 
-- Open-Source Software Contribution  
+- Red Teaming & AI Red Teaming
+- Ethical Hacker & Penetration Tester
+- AI Security Engineer & AI Security Researcher
+- LLM Exploitation & Injector 
+- Automation Scripting & Tool Development
 
 ---
 
 ## 💼 Professional & Community Experience
 
-**Cybersecurity Practitioner (2+ years)**  
-- Specialized in white-hat ethical hacking  
-- Conducted bug hunting and vulnerability analysis
+**Working In Cybersecurity (2+ years)**  
+- Red Teaming & AI Red Teaming
+- AI Security & AI Security Research
+- LLM Exploitation & Injector 
+- Bug Hunting & Vulnerability Analysis
 
 **Teaching Experience (1+ Year)**  
-- Taught programming and ethical hacking fundamentals  
-- Developed and maintained open-source cybersecurity and automation tools  
+- Teaching Programming Fundamentals  
+- LLM's
+- AI Security
+- Ethical Hacking
+- Penetration Testing.  
+
 
 **Open Source Contributor**  
-- Developed and maintained open-source cybersecurity and automation tools  
+- Developing & Maintained Open-Source Cybersecurity & Automation Tools  
 
 
 ---
@@ -81,8 +96,8 @@
 
 ## 🧩 Additional Information
 
-**Areas of Interest:** Artificial Intelligence, Cybersecurity, and Computer Science  
-**Experience:** Skilled in developing custom security and automation tools  
+**Areas of Interest:** Artificial Intelligence, Cybersecurity, & AI Research 
+**Experience:** Red Teaming, AI Red Teaming, LLM's Security &Research 
 
 ---
 
